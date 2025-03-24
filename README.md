@@ -1,1 +1,2 @@
 # odin-recipes
+My first html exercise - no more, no less. If you've ever stumbled upon this, consider it fate's whimsical play, and if you've any kindness and time to be spared, please take a look inside. Any mistake or point to improve are very much appreciated.
